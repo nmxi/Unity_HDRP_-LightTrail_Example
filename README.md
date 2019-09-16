@@ -7,3 +7,6 @@ Unity HDRPで光跡の表現をする例
 - HDRP 5.16.1-preview
 
 ![sample](https://github.com/nmxi/Unity_HDRP_LightTrail_Example/raw/master/Documentation/sample.gif)
+
+## License
+MIT
