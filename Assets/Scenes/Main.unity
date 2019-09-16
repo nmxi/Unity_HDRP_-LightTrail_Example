@@ -771,7 +771,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
     albedo: {r: 1, g: 1, b: 1, a: 1}
-    meanFreePath: 80
+    meanFreePath: 50
     asymmetry: 0
     volumeMask: {fileID: 0}
     textureScrollingSpeed: {x: 0, y: 0, z: 0}
@@ -825,8 +825,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1590289490}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0.36116984, y: 0.20554614, z: 0.33912998, w: -0.8439775}
+  m_LocalPosition: {x: -5.247362, y: -0.27405834, z: -4.260493}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1232180677}
@@ -834,7 +834,7 @@ Transform:
   - {fileID: 265094923}
   m_Father: {fileID: 0}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 28.049002, y: -42.121002, z: -414.771}
 --- !u!1 &1775240304
 GameObject:
   m_ObjectHideFlags: 0
